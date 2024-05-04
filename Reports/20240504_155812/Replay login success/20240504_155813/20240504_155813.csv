@@ -1,0 +1,9 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Replay login success,Chrome 124.0.0.0,,,04-05-2024 15:58:23,04-05-2024 15:58:35,11.889s,FAILED
+,,,,,,,
+Test Cases/Login sukses,Chrome 124.0.0.0,,,04-05-2024 15:58:24,04-05-2024 15:58:35,11.382s,FAILED
+"openBrowser("""")",Chrome 124.0.0.0,,,04-05-2024 15:58:25,04-05-2024 15:58:30,4.943s,PASSED
+"navigateToUrl(""https://www.facebook.com/"")",Chrome 124.0.0.0,,,04-05-2024 15:58:30,04-05-2024 15:58:32,2.039s,PASSED
+"setText(findTestObject(""Object Repository/Page_Facebook  log in or sign up/input_Facebook helps you connect and share _ccef60""), ""bputrahermawan14@gmail.com"")",Chrome 124.0.0.0,,,04-05-2024 15:58:32,04-05-2024 15:58:33,1.732s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Facebook  log in or sign up/input_Facebook helps you connect and share _ab63fc""), ""UQ6+a8pHVDba5VVQjz0mBg=="")",Chrome 124.0.0.0,,,04-05-2024 15:58:33,04-05-2024 15:58:34,0.951s,PASSED
+"click(findTestObject(""Object Repository/Page_Facebook  log in or sign up/button_Log in""))",Chrome 124.0.0.0,,,04-05-2024 15:58:34,04-05-2024 15:58:35,0.942s,FAILED

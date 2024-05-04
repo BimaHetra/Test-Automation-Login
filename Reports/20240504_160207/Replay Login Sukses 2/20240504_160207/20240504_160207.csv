@@ -1,0 +1,8 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Replay Login Sukses 2,Chrome 124.0.0.0,,,04-05-2024 16:02:14,04-05-2024 16:02:52,37.889s,FAILED
+,,,,,,,
+Test Cases/Login sukses,Chrome 124.0.0.0,,,04-05-2024 16:02:15,04-05-2024 16:02:52,37.480s,FAILED
+"openBrowser("""")",Chrome 124.0.0.0,,,04-05-2024 16:02:15,04-05-2024 16:02:18,3.259s,PASSED
+"navigateToUrl(""https://www.facebook.com/"")",Chrome 124.0.0.0,,,04-05-2024 16:02:18,04-05-2024 16:02:20,1.317s,PASSED
+"setText(findTestObject(""Object Repository/Login sukses 2/Page_Facebook  log in or sign up/input_Facebook helps you connect and share _ccef60""), ""bputrahermawan14@gmail.com"")",Chrome 124.0.0.0,,,04-05-2024 16:02:20,04-05-2024 16:02:21,1.052s,PASSED
+"click(findTestObject(""Object Repository/Login sukses 2/Page_Facebook  log in or sign up/div_Facebook helps you connect and share wi_4680ca""))",Chrome 124.0.0.0,,,04-05-2024 16:02:21,04-05-2024 16:02:52,31.255s,FAILED
